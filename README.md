@@ -1,10 +1,23 @@
 # heylin6_dist_0001
 
+參考來源:
+
+ReactMaker
+
+https://github.com/ReactMaker
+
+Livecoding
+
+https://www.livecoding.tw/
+
+
 使用工具: 
 
 ReactJS
 
 練習目標:
+
+行事曆(進行中)
 
 討論區
 
